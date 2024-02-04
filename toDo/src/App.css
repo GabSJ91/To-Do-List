@@ -1,0 +1,122 @@
+body {
+  font-family: Arial;
+  background-color: #333;
+  padding: 30px;
+  color: #333 ;
+}
+
+.app {
+  max-width: 600px;
+  margin: 0 auto;
+  background-color: aliceblue;
+  padding: 20px 30px;
+  border-radius: 15px;
+
+
+  h1 {
+    text-align: center;
+  }
+
+  h2 {
+    margin-bottom: 10px;
+  }
+
+  p {
+    margin: 10px 0;
+  }
+
+  input {
+    box-sizing: border-box;
+  }
+
+  button {
+    padding: 5px 10px;
+    border: none;
+    border-radius: 4px;
+    font-weight: bolder;
+    color: black;
+    background-color: #5cb85c;
+    cursor: pointer;
+    opacity: .8;
+    transition: .4s;
+  }
+
+  button:hover {
+    opacity: 1;
+  } 
+
+ .remove {
+  background-color: #fcb85c;
+  margin-left: 3px;
+  border-radius: 4px;
+ }
+
+}
+
+.toDo__list {
+  margin-bottom:20px ;
+  padding-bottom: 20px;
+  border-bottom:1px solid #555 ;
+}
+
+.toDo {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-radius: 10px;
+  margin: 10px;
+  padding: 10px;
+  background-color: white;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.todo__form {
+
+  padding-bottom: 1.5rem;
+
+  input, select {
+    padding: 5px;
+    margin-bottom: 10px;
+    border: 2px solid #DDD;
+    width: 100%;
+  }
+
+  button {
+    background-color: #333974;
+    color: white;
+    padding: 5px 10px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    opacity: .8;
+    transition: .4s;
+  }
+  button:hover {
+    opacity: 1;
+  }
+}
+
+div h3 {
+  color: #333;
+  margin-left: 50px;
+}
+
+div .search {
+  border: 2px solid #DDD;
+  margin-bottom: 10px;
+  font-weight: 600;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  color: #333;
+  margin-left: 50px;
+}
+
+.search {
+ 
+ 
+  border: none;
+  width: 80%;
+  margin: 0 auto;
+  background-color: rgb(219, 219, 219);
+  padding: 10px 10px;
+  border-radius: 10px;
+}
