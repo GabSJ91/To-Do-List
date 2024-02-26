@@ -1,7 +1,11 @@
 
 
 # Lista de Tarefas React <br />
-Bem-vindo ao projeto da Lista de Tarefas React! Esta é uma aplicação web simples para gerenciar suas tarefas diárias, construída utilizando a biblioteca React.js para uma experiência de usuário dinâmica e eficaz.
+Bem-vindo ao projeto da Lista de Tarefas React! Esta é uma aplicação web simples para gerenciar suas tarefas diárias, construída utilizando a biblioteca React.js para uma experiência de usuário dinâmica e eficaz. <br />
+
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/GabSJ91/To-Do-List/blob/main/LICENSE)
+
 
 ## Funcionalidades Principais <br />
 -Adição e Remoção de Tarefas: Adicione facilmente novas tarefas à lista e remova aquelas que já foram concluídas.<br />
@@ -21,11 +25,12 @@ Bem-vindo ao projeto da Lista de Tarefas React! Esta é uma aplicação web simp
 
 ## Tecnologias Utilizadas<br />
 
+
 ![Vite](https://img.shields.io/badge/Vite-Yes-green?style=for-the-badge&logo=vite&logoColor=white)<br />
 
 ![HTML5](https://img.shields.io/badge/HTML5-Yes-E34F26?style=for-the-badge&logo=html5&logoColor=white)<br />
 
-![React](https://img.shields.io/badge/React-16.x-blue?style=for-the-badge&logo=react&logoColor=white)<br />
+![React](https://img.shields.io/badge/React-Yes-blue?style=for-the-badge&logo=react&logoColor=white)
 
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)<br />
 
